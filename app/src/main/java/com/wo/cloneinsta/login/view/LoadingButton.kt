@@ -1,4 +1,4 @@
-package com.wo.cloneinsta.view
+package com.wo.cloneinsta.login.view
 
 import android.content.Context
 import android.util.AttributeSet
