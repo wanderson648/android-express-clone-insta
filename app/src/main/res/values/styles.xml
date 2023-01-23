@@ -45,4 +45,10 @@
         <item name="android:layout_marginBottom">24dp</item>
     </style>
 
+    <style name="Theme.CloneInsta.Link" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/blue_enabled</item>
+    </style>
+
 </resources>
