@@ -6,10 +6,10 @@
     tools:context=".register.view.RegisterActivity">
 
     <fragment
-        android:name="com.wo.cloneinsta.register.view.RegisterNameFragment"
+        android:name="com.wo.cloneinsta.register.view.RegisterWelcomeFragment"
         android:id="@+id/register_fragment"
         android:layout_width="match_parent"
-        tools:layout="@layout/fragment_register_name_password"
+        tools:layout="@layout/fragment_register_welcome"
         android:layout_height="match_parent"/>
 
 </LinearLayout>
