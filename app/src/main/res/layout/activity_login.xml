@@ -56,11 +56,11 @@
             </com.google.android.material.textfield.TextInputLayout>
 
 
-            <Button
+            <com.wo.cloneinsta.view.LoadingButton
                 android:id="@+id/login_btn_enter"
-                style="@style/Theme.CloneInsta.Button"
-                android:enabled="false"
-                android:text="@string/enter" />
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:text="@string/enter" />
 
             <FrameLayout
                 style="@style/Theme.CloneInsta.FormContainer"
